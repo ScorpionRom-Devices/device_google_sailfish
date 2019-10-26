@@ -1,0 +1,22 @@
+[
+ {
+   "repository":  "ScorpionRom-Devices/device_google_marlin",
+   "target_path": "device/google/marlin",
+   "branch":      "sr-3.x"
+ },
+ {
+   "repository":  "ScorpionRom-Devices/kernel_google_marlin",
+   "target_path": "kernel/google/marlin",
+   "branch":      "sr-3.x"
+ },
+ {
+   "repository":  "ScorpionRom/vendor_codeaurora_telephony",
+   "target_path": "vendor/codeaurora/telephony",
+   "branch":      "sr-3.x"
+ },
+ {
+   "repository":  "ScorpionRom-Devices/vendor_google",
+   "target_path": "vendor/google",
+   "branch":      "sr-3.x"
+ }
+]
